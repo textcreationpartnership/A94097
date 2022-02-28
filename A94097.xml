@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Study to be quiet: or, A short vievv of the miseries of warre, with the necessity of peace. Also, the character of a peaceable man: whose motto is, I am for peace, Psal. 120. vers. 7.. [sic] / By a dyer.</title>
+            <author>A Dyer.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94097</idno>
+            <idno type="STC">Wing S6091</idno>
+            <idno type="STC">Thomason E402_5</idno>
+            <idno type="STC">ESTC R201814</idno>
+            <idno type="EEBO-CITATION">99862307</idno>
+            <idno type="PROQUEST">99862307</idno>
+            <idno type="VID">114461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Study to be quiet: or, A short vievv of the miseries of warre, with the necessity of peace. Also, the character of a peaceable man: whose motto is, I am for peace, Psal. 120. vers. 7.. [sic] / By a dyer.</title>
+                  <author>A Dyer.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mostly in verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects --  Early works to 1800.</term>
+               <term>War --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114461:1" rendition="simple:additions"/>
+            <p>
+               <hi>Study to be quiet:</hi> Or, a ſhort VIEVV Of the Miſeries of WARRE, With the Neceſſity of PEACE.</p>
+            <p>
+               <hi>ALSO,</hi> The Character of a Peaceable Man: whoſe Motto is,</p>
+            <q>
+               <hi>I am for Peace,</hi> 
+               <bibl>Pſal. 120. verſ. 7.</bibl>
+            </q>
+            <p>By a <hi>DYER.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi>
+            </p>
+            <p>Printed for <hi>B. Alſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114461:2"/>
+            <pb facs="tcp:114461:2"/>
+            <div type="part">
+               <head>A ſhort view of the Miſeries of Warre, and the neceſſity of Peace.</head>
+               <p>O <hi>England!</hi> thou haſt need to ſtudy to be quiet; truly this work is a very ſeaſonable worke, eſpeciall in theſe times of diſtraction; but if not conſidered it will prove thy utter ruine, whereof in ſome part thou haſt already felt: Let all therefore as one man, from the greateſt from the greateſt to the leaſt, both Prince and Subiects, Noble and ſimple, Church, and State, Iudges and Councel<g ref="char:EOLhyphen"/>lors, Lawyers and Clients, City and Country. Miniſters, and people, Parents and Children, Maſters and Servants Rich and poor, (let all I ſay) learne this leſſon, to ſtudy to be quiet; and not onely learne it, but put it in practice, Nature teacheth us, eſpecially holy writ commands us this duty: of ſtudyng to be quiet: in which there are ſuch infi<g ref="char:EOLhyphen"/>nite Exhortations, and Incitations, to this worke, of quiet<g ref="char:EOLhyphen"/>neſſe. Peace, Loue, Unitie, that had I the tongue of men and Angels, it were impoſible for me to declare or ſet forth the worth of it: and that I may ſpur you on to this duty; of ſtudying to be quiet: let me give you a little inſtance of the miſeries of Warre; that you may with a more ready and willing minde, ſue for Peace and ſtudy to be quiet. What deſolations hath Warre brought in other places, Countryes &amp; Kingdomes: we our ſelves are ſenſible in ſome meaſure of it, for have we not heard the murthering Cannons about our eares, haue not our houſes bin burnt, and Churches ſpoyled, the worſhip of God neglected, have there not bin
+<pb facs="tcp:114461:3"/> Rapes and outrageous violences committed upon our Wives and Daughters; and had we not need to ſtudy to be quiet; have we not ſeene our goods taken from us and our houſes ryfled by unruly ſouldiers? Have we not heard the cryes of the wounded, the fields and the high wayes ſcat<g ref="char:EOLhyphen"/>red dead carkaſies, have we not heard deſpeiate ſouldiers cry kill, kill; was not the young in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant ſnatcht from the Mothers breſt and throne againſt the ſtones, or toſſed on the top of pikes? have we not ſeene men and horſes wallow in their bloud: and had not we need ſtudy to be p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et: could the Country man follow the plow where an Army was, did they not leave ſoing; was not the ſtanding corne burnt downe, or troden under feet, or eaten up by horſes, was not the cattell deſtroyed, and waſt made of that which was kild and of all other things, a way to bring in a famine; and had we not need to ſtudy to be quiet: what profit is got by Warres, the Lawes are ſilent, outrages are committed, trading ceaceth, want increaſeth, learning aboliſhed and almoſt all manner of ſin perpetrated; the ſon feares not his Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, nor the ſervant his Maſter and ſhould we not ſtudy to be quiet againe? here cryes the Wife for her dead huſband, here a child laments for his Father, and a Father for his child, for how many are the Fatherleſſe and the widowes: heres one lyeth kild, another hath his braines ſhot out, a third loſt his arme, a fourth hath loſt a leg and a fift hath a bullet ſhot in his body and cannot be got out and indures a world of miſery; ſome can neither dy nor live, with an infinite other calamities that follow, and whoſe heart would not lament and mourne to ſee and heare theſe things, and to behold ſuch ſad ſpectacles: and had we not need to ſtudy to be quiet: and finde out a way that our miſeries may be put to a period, that every one may ſit under his own Vine, and eat of the labour of his hands in peace and quiet, with giving thankes to God: for which peace and quietnes let us all pray: In the meane time, although I cannot finde out a way to end our troubles, yet I will deſcribe to you the character of a quiet man, by whoſe example every man may ſtudy to be quiet.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:114461:3"/>
+               <head>The Character of a peaceable and quiet man.</head>
+               <lg>
+                  <l>THis Study to be quiet, is a theame</l>
+                  <l>That all ſhould learne, it is ſo ſweet a ſtreame,</l>
+                  <l>And where this peace and love goes hand in hand,</l>
+                  <l>All thing<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are there, and what you can d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mand:</l>
+                  <l>But where ruffe waters, troubled Seas do rore,</l>
+                  <l>There quietneſſe is ſhut cleane out of dore:</l>
+                  <l>Then ſtudy to be quiet, I you w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh</l>
+                  <l>Or elſe twill prove a vety unkind diſh;</l>
+                  <l>And that I may deſcribe to you the man</l>
+                  <l>That ſtudies to be quiet, loe here than</l>
+                  <l>He is portrayed to you here in briefe</l>
+                  <l>Of mortall men we may eſteeme him chiefe,</l>
+                  <l>Firſt, it is he that twixt God and his ſoule,</l>
+                  <l>Hath made his peace, and doth upon h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m roule,</l>
+                  <l>That hates all ſinne, and wickedneſſe, and why?</l>
+                  <l>Becauſe that God is much diſpleasd thereby.</l>
+                  <l>Next loves his Neighbour even as himſelfe,</l>
+                  <l>And cares not for the world, and all its pelfe,</l>
+                  <l>That at Gods glory chiefly he doth ayme,</l>
+                  <l>Thats no ſelf-ſeeker, ſuch let no man blame,</l>
+                  <l>That is content with rayment or with diet,</l>
+                  <l>That is that man, that ſtudies to be quier,</l>
+                  <l>That ſpeaketh truth, and of a chriſtian temper,</l>
+                  <l>Thats ſlow to wrath, and is <hi>eadem ſemper,</hi>
+                  </l>
+                  <l>Whoſe eyes not wanton, nor whoſe eares are itching</l>
+                  <l>For novelties, whoſe heart is never wiſhing</l>
+                  <l>For others wealth; nor yet is ever idle,</l>
+                  <l>But well employed, and doth alwayes bridle</l>
+                  <l>His mouth and tongue, that they do not offend,</l>
+                  <l>That never ſweareth, though it were for his end.</l>
+                  <pb facs="tcp:114461:4"/>
+                  <l>That beareth all things with great patience,</l>
+                  <l>Within whoſe breaſt remaineth innocence;</l>
+                  <l>That gives no eare to every idle talke,</l>
+                  <l>And in his Calling conſciouſly doth walke,</l>
+                  <l>Whoſe Natures mild, and loveth no diviſion,</l>
+                  <l>That <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s no ſcoffer, hateth all ambition,</l>
+                  <l>That puts up wrongs, and gives to all men right,</l>
+                  <l>Seekes no revenge, though others ſeek to fight,</l>
+                  <l>That doth not covet, is no Hypocrite,</l>
+                  <l>That beares no malice, anger, nor yet ſpite,</l>
+                  <l>That is not curious, jealous, or unkind,</l>
+                  <l>That is not proud, but of a loving mind,</l>
+                  <l>That is no Swearer, nor no drunken man,</l>
+                  <l>Nor uncleane perſon, ſay the worſt who can,</l>
+                  <l>That feareth God, and doth obey the King,</l>
+                  <l>Loves truth, and peace, more then an Earthly thing;</l>
+                  <l>At ſuch a man I never will invie at</l>
+                  <l>That dayly thus doth ſtudy to be quiet.</l>
+               </lg>
+               <epigraph>
+                  <q>Marke the perfect man, and behold the upright, for the end of that man is peace.</q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <pb facs="tcp:114461:4"/>
+               <head>The peaceable mans Motto.</head>
+               <lg>
+                  <head>I am for peace.</head>
+                  <l>WElcome ſweet peace, our ſecond ſiſter, that</l>
+                  <l>Hath nouriſht us with her ſweets and her fat,</l>
+                  <l>Her plenty and proſperity, and wealth,</l>
+                  <l>Her choyceſt riches, to preſerve our health,</l>
+                  <l>By whoſe bleſt meanes, each one ſo fruitfull growes,</l>
+                  <l>What tis to want (where peace is) none ſcarce knowes.</l>
+                  <l>Why ſhould we kick at her whoſe breaſts we ſuckt,</l>
+                  <l>Why ſhou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d we fight 'gainſt her, who hath us pluckt</l>
+                  <l>From violence, and us preſerv'd from Fees,</l>
+                  <l>From the rage and malice of all thoſe</l>
+                  <l>That ſeekes our ruine; oh let love increaſe,</l>
+                  <l>For where tis wanting no man is at eaſe:</l>
+                  <l>Come peace, let us embrace thee in our armes,</l>
+                  <l>Where thou doſt dwell, there is no thought of harmes,</l>
+                  <l>For love is with thee, thou to all good-will</l>
+                  <l>Doſt beare, and thou to no man thinkeſt ill:</l>
+                  <l>Why ſhouldſt thou be a ſtranger to us now,</l>
+                  <l>Of ſtay we pray, and we will make a vow</l>
+                  <l>To be at one with thee, weel have no thought</l>
+                  <l>Of rancker, hate, or any thing thats naught:</l>
+                  <l>Well! ſhe will ſtay, I'm glad we ſhall have peace,</l>
+                  <l>Make much on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> now, tis time that warres ſhould ceaſe,</l>
+                  <l>We have enough on't; peace is earthly bliſſe,</l>
+                  <l>For truth and peace ſhall one another kiſſe:</l>
+                  <l>Loe then heres peace, the miſtris with her maiden,</l>
+                  <l>Love, Unity, and Concord richly laden,</l>
+                  <l>With all good things, behold the Earth is full,</l>
+                  <l>And we our laps full here and there may cull,</l>
+                  <l>Of her attendants, that peace with her brings</l>
+                  <l>In ſuch abundance, as is fit for Kings.</l>
+                  <l>Thrice bleſſed art thou, peace, that ſweetly crownes</l>
+                  <l>Our Land, our Cities, Villages and townes,</l>
+                  <l>That fil'ſt our barnes with corn, our ſtalls with hay.</l>
+                  <l>Our Orehards, Gardens, Cloathes with flowers gay,</l>
+                  <l>Our ſheep with wooll, our Oxen ſtout and ſtrong,</l>
+                  <l>Our Ponds, our Rivers, ſweetly rune along</l>
+                  <pb facs="tcp:114461:5"/>
+                  <l>Where Fiſhes ſport themſelves, yea in the fields,</l>
+                  <l>The Birds do ſing and pleaſure much it yeelds:</l>
+                  <l>There be trees laden with all manner of fruit,</l>
+                  <l>There is no perſon that hath any ſuit</l>
+                  <l>At Law, but all deſire to live at eaſe,</l>
+                  <l>Our Corn and Cattell brings us great increaſe,</l>
+                  <l>A hundred fold, for here is no complaining</l>
+                  <l>We are all in love, not one ſinne now is reigning:</l>
+                  <l>With theſe, and thouſands more, men may delight</l>
+                  <l>Themſelves, and ſollace with the eare and ſight:</l>
+                  <l>Here the brave Courtier, and the mighty men</l>
+                  <l>For recreation may come now and then,</l>
+                  <l>And take their fill of what ſweet peace doth yeeld</l>
+                  <l>Ith Ayre, ith waters, or within the field;</l>
+                  <l>The meaner ſort with thoſe of low degree,</l>
+                  <l>May come and ſhare with theſe we dayly ſee,</l>
+                  <l>They have as great an inteteſt as any,</l>
+                  <l>Provided alwayes that they have but money.</l>
+                  <l>Peace is not partiall freely ſhe imparts</l>
+                  <l>Of her abundance, comforting mens hearts:</l>
+                  <l>Where peace doth dwell, and where the land hath reſt,</l>
+                  <l>There is no fear or ſorrow to moleſt,</l>
+                  <l>Or vexe or fright us, there's no hideous cryes</l>
+                  <l>Of wounded men, or dead before our eyes,</l>
+                  <l>Where peace is queen, no Drums nor Canons rore,</l>
+                  <l>No ſword is drawn, that kills both rich and poore,</l>
+                  <l>Here's no deſtroying corn, or graſſe, or hay,</l>
+                  <l>Here is no firing houſes all the way,</l>
+                  <l>But all is quiet, each man in his calling</l>
+                  <l>Doth follow cloſely, neighbours are not brawling</l>
+                  <l>With one another, but do live in love,</l>
+                  <l>This is that bleſſing that comes from above,</l>
+                  <l>And that we may thus live in joy and peace,</l>
+                  <l>Pray <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur Peace-maker that our wars may ceaſe:</l>
+                  <l>But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f that any herein I diſpleaſe,</l>
+                  <l>Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whoſe will be for warre, I am for peace.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
